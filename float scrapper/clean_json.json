@@ -1,0 +1,670 @@
+{
+    "730": {
+        "2": {
+            "31457765554": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "31457765554",
+                "classid": "5422395600",
+                "instanceid": "480085569",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "31457765554",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/hero.bb8b9596725778ac15303dc743a54edc7e26a783.png\"><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/mont.a631dcecfbbdeb640c780f0121119341ed8a1196.png\"><br>Sticker: Heroic | Paris 2023, Monte | Paris 2023</center></div>"
+                    }
+                ],
+                "tradable": 1,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5949876383683185245A%assetid%D5497382641388910695",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5949876383683185245A%assetid%D5497382641388910695",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33916165390": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33916165390",
+                "classid": "5555616184",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33916165390",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 0,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M7343740470920972422A%assetid%D12285905745258394667",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M7343740470920972422A%assetid%D12285905745258394667",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "32292720565": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "32292720565",
+                "classid": "4910475515",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "32292720565",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 1,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4374741056443588579A%assetid%D7792360560529692295",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M4374741056443588579A%assetid%D7792360560529692295",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33990948622": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33990948622",
+                "classid": "5560283272",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33990948622",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 0,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5868811590389475672A%assetid%D12297270839223278607",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5868811590389475672A%assetid%D12297270839223278607",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33768181117": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33768181117",
+                "classid": "5547704608",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33768181117",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 1,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5951002283575727166A%assetid%D1029787241014271041",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5951002283575727166A%assetid%D1029787241014271041",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "30284252025": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "30284252025",
+                "classid": "4910475515",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "30284252025",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 1,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M6625416329058818550A%assetid%D7792360560529692295",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M6625416329058818550A%assetid%D7792360560529692295",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33965007653": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33965007653",
+                "classid": "5558730263",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33965007653",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 0,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5922854785903394169A%assetid%D5633069159926659681",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5922854785903394169A%assetid%D5633069159926659681",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33999271123": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33999271123",
+                "classid": "5558730263",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33999271123",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 0,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5923980685823854570A%assetid%D5633069159926659681",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5923980685823854570A%assetid%D5633069159926659681",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33999271048": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33999271048",
+                "classid": "5560283272",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33999271048",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 0,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5923980685823855020A%assetid%D12297270839223278607",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5923980685823855020A%assetid%D12297270839223278607",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            },
+            "33999270961": {
+                "currency": 0,
+                "appid": 730,
+                "contextid": "2",
+                "id": "33999270961",
+                "classid": "5560283272",
+                "instanceid": "188530139",
+                "amount": "1",
+                "status": 2,
+                "original_amount": "1",
+                "unowned_id": "33999270961",
+                "unowned_contextid": "2",
+                "background_color": "",
+                "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_cg_07uTptug3VXhr0BkZW6nIoTDcFRraV7XrwLvx-7q08TpusvPy3pk7j5iuyj8H6hN6Q",
+                "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB5M65mYG0h_76OITck29Y_chOhujT8om70Qbm-ERpZjj2cIWddAFqZ1qG-APryejo0MXtup3MnyA2vHYk53faywv330-2X31K7g",
+                "descriptions": [
+                    {
+                        "type": "html",
+                        "value": "Exterior: Field-Tested"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. The colors in this custom paint job were applied in offset positions, leading to an eye-popping look.\n\n<i>(Not so) easy on the eyes...</i>"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    },
+                    {
+                        "type": "html",
+                        "value": "The Recoil Collection",
+                        "color": "9da1a9"
+                    },
+                    {
+                        "type": "html",
+                        "value": " "
+                    }
+                ],
+                "tradable": 0,
+                "actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5923980685823855410A%assetid%D12297270839223278607",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "name": "AWP | Chromatic Aberration",
+                "name_color": "D2D2D2",
+                "type": "Covert Sniper Rifle",
+                "market_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_hash_name": "AWP | Chromatic Aberration (Field-Tested)",
+                "market_actions": [
+                    {
+                        "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M5923980685823855410A%assetid%D12297270839223278607",
+                        "name": "Inspect in Game..."
+                    }
+                ],
+                "commodity": 0,
+                "market_tradable_restriction": 7,
+                "marketable": 1,
+                "app_icon": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+                "owner": 0
+            }
+        }
+    }
+}
