@@ -1,4 +1,4 @@
 # float-scraper
 Float scraper
 
-- install selenium and some chrome driver
+- install selenium and the newest chrome driver
