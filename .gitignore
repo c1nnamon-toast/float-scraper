@@ -1,1 +1,3 @@
-venv__selenium/
+__venv__scraper/
+logs.log/
+temp__/

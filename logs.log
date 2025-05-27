@@ -2860,3 +2860,33 @@ Stacktrace:
 	BaseThreadInitThunk [0x00007FFCAC68257D+29]
 	RtlUserThreadStart [0x00007FFCAE52AA58+40]
 
+[28 May] 01:54:38 | INFO | Iteration #1
+
+[28 May] 01:54:44 | ERROR | Scaping error 
+Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@href='javascript:void(0)']"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF67A20CF45+75717]
+	GetHandleVerifier [0x00007FF67A20CFA0+75808]
+	(No symbol) [0x00007FF679FD8F9A]
+	(No symbol) [0x00007FF67A02F4C6]
+	(No symbol) [0x00007FF67A02F77C]
+	(No symbol) [0x00007FF67A021D7C]
+	(No symbol) [0x00007FF67A0573BF]
+	(No symbol) [0x00007FF67A021C46]
+	(No symbol) [0x00007FF67A057590]
+	(No symbol) [0x00007FF67A07F39C]
+	(No symbol) [0x00007FF67A057153]
+	(No symbol) [0x00007FF67A020421]
+	(No symbol) [0x00007FF67A0211B3]
+	GetHandleVerifier [0x00007FF67A50D71D+3223453]
+	GetHandleVerifier [0x00007FF67A507CC2+3200322]
+	GetHandleVerifier [0x00007FF67A525AF3+3322739]
+	GetHandleVerifier [0x00007FF67A226A1A+180890]
+	GetHandleVerifier [0x00007FF67A22E11F+211359]
+	GetHandleVerifier [0x00007FF67A215294+109332]
+	GetHandleVerifier [0x00007FF67A215442+109762]
+	GetHandleVerifier [0x00007FF67A1FBA59+4825]
+	BaseThreadInitThunk [0x00007FFB87B4E8D7+23]
+	RtlUserThreadStart [0x00007FFB887BC5DC+44]
+
